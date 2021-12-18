@@ -5,7 +5,9 @@ Install i3: Sudo apt install i3
 
 Copy the i3 config file to .config directory
 
-Copy the i3 status config file to .config directory
+mkdir ~/.config/i3status
+
+Copy the i3 status config file to ~/.config/i3status directory
 
 Default Mod key=windows key
 
